@@ -1,0 +1,8 @@
+#datos{
+    width: 400px;
+    height: 400px;
+    margin: 50px;
+    background: orange;
+    color: black;
+    border: solid 1px black;
+}
