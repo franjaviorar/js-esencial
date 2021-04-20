@@ -1,0 +1,32 @@
+#rojo{ 
+    background: blue;
+    color: white;
+}
+#verde{ 
+    background: yellow;
+    color: white;
+}
+#amarillo{ 
+    background: purple;
+    color: white;
+}
+
+.sborder_dashed{
+    border:5px dashed black;
+}
+.sborder{
+    border: 5px solid black;
+}
+
+.grande{
+    font-size:  30px;
+}
+
+.margen_susperior{
+    display: block;
+    margin-top:45px;
+
+}
+.resaltado{
+    border-bottom: 2px solid brown;
+}
