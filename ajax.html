@@ -13,7 +13,16 @@
     <h1> peticiones ajax</h1>
 
     <div id="datos">
-
     </div>
+
+    <form method="post" id="formulario" event = 'submit' action="https://reqres.in/api/users">
+        Nombre: <input type="text" name="nombre" id="nombre"> 
+        edad: <input type="text" name="edad" id="edad">
+        <br>
+        <br>
+        Email: <input type="text" name="email" id="email">
+        nacionalidad: <input type="text" name="nacionalidad" id="nacionalidad">
+        <button id="boton" type="submit"> enviar</button>
+    </form>
 </body>
 </html>

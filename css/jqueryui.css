@@ -1,0 +1,49 @@
+.area{
+    border: 2px solid black;
+    margin: 5px;
+    background: chartreuse;
+}
+#areach{
+    width: 100px;
+    height: 100px;
+}
+#areag{
+    width: 300px;
+    height: 300px;
+}
+.caja{
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    border : solid black 2px;
+    float: left;
+}
+#contenedor1{
+    background: yellow;
+}
+#contenedor2{
+    background: tomato;
+}
+#contenedor3{
+    background: orange;
+}
+#lista li{
+    width: 80%;
+    padding: 20px;
+    border: 1px solid black;
+    list-style: none;
+    cursor: pointer;
+    margin-bottom: 2px;
+}
+
+ul .ui-selecting {background: green;}
+ul .ui-selected { background: greenyellow;}
+
+#caja_efecto{
+    width: 200px;
+    height: 200px;
+    background: goldenrod;
+    border: solid 2px black;
+    margin: 5px;
+    display: none;
+}
